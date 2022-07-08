@@ -1,4 +1,4 @@
-from . import card
+import classes.card as card
 
 class Deck:
 
