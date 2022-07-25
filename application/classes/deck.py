@@ -26,4 +26,3 @@ class Deck:
     def show_cards(self):
         for card in self.cards:
             card.card_info()
-
